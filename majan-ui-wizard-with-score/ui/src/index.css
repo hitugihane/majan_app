@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure the app takes up the full height of the viewport */
+html,
+body,
+#root {
+  height: 100%;
+}
